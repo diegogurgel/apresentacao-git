@@ -6,3 +6,6 @@ section{
 .reveal{
 	background-color: #fff;
 }
+.reveal ul{
+	list-style-type: none;
+}
